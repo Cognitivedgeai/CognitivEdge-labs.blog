@@ -1,1 +1,1 @@
-# CognitivEdge-labs.github.io-
+# CognitivEdge-labs-blog
