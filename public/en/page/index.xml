@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Cognitiv Edge Blog</title>
+    <link>https://Cognitivedgeblog.github.io/en/page/</link>
+    <description>Recent content in Pages on Cognitiv Edge Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Cognitivedgeblog.github.io/en/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>https://Cognitivedgeblog.github.io/en/page/about/</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Cognitivedgeblog.github.io/en/page/about/</guid>
+      <description>CognitivEdge is a dynamic emerging force within the industrial domain, poised to redefine conventions and unlock new horizons. Our focus is on breaking down barriers in the industrial sector, driven by the innovative Gen AI-powered Industrial Data Catalyst Platform. With a distributed data and AI engine at its core, our platform offers a streamlined avenue for developing, refining, and deploying AI applications across diverse domains, providing real-time insights into the intricacies of data dynamics.</description>
+    </item>
+    
+  </channel>
+</rss>
